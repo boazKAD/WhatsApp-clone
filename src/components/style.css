@@ -1,0 +1,16 @@
+/* styles.css */
+
+.overflow-y-auto::-webkit-scrollbar {
+    width: 2px;
+    
+  }
+  
+  .overflow-y-auto::-webkit-scrollbar-thumb {
+    background-color: #726e6e;
+    border-radius: 2px;
+  }
+  
+  .overflow-y-auto::-webkit-scrollbar-track {
+    background-color: #2c2c2c;
+  }
+  
